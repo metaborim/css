@@ -1,0 +1,8 @@
+#ad, 
+.blog_ad2, 
+*[id^='Adstir'],
+.footer-ranking,
+.footer-nav,
+.linelive-ranking {
+  display: none !important;
+}
