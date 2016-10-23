@@ -1,8 +1,15 @@
-#ad, 
+#ad div, 
 .blog_ad2, 
 *[id^='Adstir'],
+*[id^='adstir'],
 .footer-ranking,
 .footer-nav,
 .linelive-ranking {
   display: none !important;
 }
+
+table td,
+table th {
+    border: 1px solid #bbb;
+}
+
