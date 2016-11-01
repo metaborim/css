@@ -4,7 +4,10 @@
 *[id^='adstir'],
 .footer-ranking,
 .footer-nav,
-.linelive-ranking {
+.linelive-ranking,
+.footer-external-links,
+.footer-addline-banner,
+.footer-blog-banner {
   display: none !important;
 }
 
@@ -18,4 +21,5 @@ table th {
   background-color: steelblue;
   color: white;
 }
+
 
