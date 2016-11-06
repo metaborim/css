@@ -22,4 +22,6 @@ table th {
   color: white;
 }
 
-
+.youtube iframe {
+  width:100%;
+}
