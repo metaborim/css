@@ -45,3 +45,8 @@ ul {
     list-style-type: none;
     padding-left: 0;
 }
+small.bracket {
+    padding-left: 1px;
+    padding-right: 1px;
+    font-size: 94%;
+}
