@@ -65,3 +65,8 @@ small.bracket {
 .table-condensed td {
     padding:4px 4px;
 }
+
+.table-more-condensed th, 
+.table-more-condensed td {
+    padding:3px 3px;
+}
