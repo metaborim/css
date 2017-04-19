@@ -22,6 +22,10 @@ table th {
     color: white;
 }
 
+table.table-11px {
+    font-size: 11px;
+}
+
 .youtube iframe {
     width:100%;
 }
