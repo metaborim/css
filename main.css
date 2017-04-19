@@ -60,3 +60,8 @@ small.bracket {
     border: 1px solid #ccc;
     text-align:center;
 }
+
+.table-condensed th, 
+.table-condensed td {
+    padding:4px 4px;
+}
