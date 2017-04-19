@@ -54,3 +54,9 @@ small.bracket {
     padding-right: 1px;
     font-size: 94%;
 }
+
+.table-centered td,
+.table-centered th {
+    border: 1px solid #ccc;
+    text-align:center;
+}
