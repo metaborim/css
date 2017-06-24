@@ -70,3 +70,18 @@ small.bracket {
 .table-more-condensed td {
     padding:3px 3px;
 }
+
+a[href^='https://www.instagram'] {
+    display:inline-block;
+    box-shadow: 0px 3px 8px rgba(51, 51, 51, 0.2);
+    height: auto;
+    margin: 1em 6px 1.5em;
+    max-width: 98.4%;
+    box-sizing: border-box;
+    cursor: default !important;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    pointer-events: none;
+    user-select: none; 
+}
