@@ -85,3 +85,7 @@ a[href^='https://www.instagram'] {
     pointer-events: none;
     user-select: none; 
 }
+
+table.caliper-disc-comparison tbody tr td:nth-child(odd):after {
+  content: 'g';
+}
