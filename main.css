@@ -78,6 +78,14 @@ a[href^='https://www.instagram'] {
     margin: 1em 6px 1.5em;
     max-width: 98.4%;
     box-sizing: border-box;
+}
+
+table.caliper-disc-comparison tbody tr td:nth-child(odd):after {
+  content: 'g';
+}
+
+a[href^='https://www.instagram'],
+a[href^='http://livedoor.blogimg.jp/fatrim'] {
     cursor: default !important;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -86,6 +94,3 @@ a[href^='https://www.instagram'] {
     user-select: none; 
 }
 
-table.caliper-disc-comparison tbody tr td:nth-child(odd):after {
-  content: 'g';
-}
