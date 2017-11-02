@@ -95,3 +95,6 @@ img[src^='http://livedoor.blogimg.jp/fatrim']{
     user-select: none; 
 }
 
+.di2-switch-chart td {
+    text-align:center;
+}
