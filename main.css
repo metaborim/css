@@ -98,3 +98,23 @@ img[src^='http://livedoor.blogimg.jp/fatrim']{
 .di2-switch-chart td {
     text-align:center;
 }
+
+.article-body div[id^='ldblog_related_articles'] {
+    display: -webkit-flex;
+    display: flex;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.article-body-inner table {
+    font-size: small;
+    text-align: center;
+}
+
+.article-body-inner table td {
+    background-color: whitesmoke;
+}
+
+.article-body-inner table .sum-row>* {
+    border-top: 3px double #ccc;
+}
