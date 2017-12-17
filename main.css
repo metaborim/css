@@ -125,6 +125,6 @@ body .article-body-inner blockquote {
 }
 
 body .article-body-inner blockquote:before {
-    content: '”';
+    content: '';
     right: 8px;
 }
