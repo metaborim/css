@@ -118,3 +118,14 @@ img[src^='http://livedoor.blogimg.jp/fatrim']{
 .article-body-inner table .sum-row>* {
     border-top: 3px double #ccc;
 }
+
+body .article-body-inner blockquote {
+    padding: 1em 1em 1em 1em;
+    font-size: small;
+}
+
+body .article-body-inner blockquote:before {
+    content: '”';
+    right: 8px;
+}
+}
