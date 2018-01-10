@@ -46,3 +46,9 @@
     display: block;
     padding: 10px 15px;
 }
+
+@media screen and (max-width: 375px)  {
+    .nav.nav-tabs li { margin-left: 0px !important; } 
+    .nav.nav-tabs li { font-size: smaller;}
+    .nav.nav-tabs li a { padding: 10px 10px; } 
+}
