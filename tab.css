@@ -1,17 +1,24 @@
-.article-body-inner .tab-pane:not(.active) { display: none; } 
-.article-body-inner .nav {
+.article-body-inner .tab-pane:not(.active),
+.article-body-outer .tab-pane:not(.active) { 
+    display: none;
+} 
+.article-body-inner .nav,
+.article-body-outer .nav {    
     padding-left: 0;
     margin-bottom: 0;
     list-style: none;
 }
-.article-body-inner .nav li .fa-external-link {
+.article-body-inner .nav li .fa-external-link,
+.article-body-outer .nav li .fa-external-link {    
     display: none;
 }
-.article-body-inner .nav-tabs>li {
+.article-body-inner .nav-tabs>li,
+.article-body-outer .nav-tabs>li {
     float: left;
     margin-bottom: -1px;
 }
-.article-body-inner .nav>li {
+.article-body-inner .nav>li,
+.article-body-outer .nav>li {    
     position: relative;
     display: block;
 }
