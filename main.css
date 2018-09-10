@@ -128,3 +128,7 @@ body .article-body-inner blockquote:before {
     content: '';
     right: 8px;
 }
+
+#basic .container nav .article-pager.article-pager-bottom {
+    display: none;
+}
