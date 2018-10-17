@@ -8,7 +8,7 @@
 .footer-external-links,
 .footer-addline-banner,
 .footer-blog-banner {
-    display: none !important;
+    /*display: none !important;*/
 }
 
 table td,
