@@ -135,7 +135,8 @@ body .article-body-inner blockquote:before {
 
 a[href^="http://fatrim.blog.jp/archives/76597705.html"],
 a[href^="http://fatrim.blog.jp/archives/74496361.html"],
-a[href^="http://fatrim.blog.jp/archives/76176279.html"] 
-a[href^="http://fatrim.blog.jp/archives/75046020.html"] {
+a[href^="http://fatrim.blog.jp/archives/76176279.html"], 
+a[href^="http://fatrim.blog.jp/archives/75046020.html"],
+a[href^="http://fatrim.blog.jp/archives/75702889.html"] {
   display:none !important;
 }
