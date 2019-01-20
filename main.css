@@ -129,7 +129,7 @@ body .article-body-inner blockquote:before {
     right: 8px;
 }
 
-#basic .container nav .article-pager.article-pager-bottom {
+#basic .article-pager {
     display: none;
 }
 
