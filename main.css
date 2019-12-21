@@ -129,7 +129,7 @@ body .article-body-inner blockquote:before {
     right: 8px;
 }
 
-#basic ul li.article-datetime,
+#basic ul li.article-datetime time,
 #basic .article-pager {
     display: none;
 }
