@@ -129,8 +129,13 @@ body .article-body-inner blockquote:before {
     right: 8px;
 }
 
+#basic ul li.article-datetime,
 #basic .article-pager {
     display: none;
+}
+
+table td.left {
+    text-align: left;
 }
 
 a[href^="http://fatrim.blog.jp/archives/76597705.html"],
