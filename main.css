@@ -138,6 +138,10 @@ table td.left {
     text-align: left;
 }
 
+ul.has-list-style {
+    list-style-type: initial;
+}
+
 a[href^="http://fatrim.blog.jp/archives/76597705.html"],
 a[href^="http://fatrim.blog.jp/archives/74496361.html"],
 a[href^="http://fatrim.blog.jp/archives/76176279.html"], 
