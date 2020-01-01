@@ -85,8 +85,8 @@ table.caliper-disc-comparison tbody tr td:nth-child(odd):after {
 }
 
 a[href^='https://www.instagram'],
-a[href^='http://livedoor.blogimg.jp/fatrim'],
-img[src^='http://livedoor.blogimg.jp/fatrim']{
+a[href^='https://livedoor.blogimg.jp/fatrim'],
+img[src^='https://livedoor.blogimg.jp/fatrim']{
     cursor: default !important;
     -webkit-user-select: none;
     -moz-user-select: none;
