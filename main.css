@@ -130,8 +130,7 @@ body .article-body-inner blockquote:before {
 }
 
 #basic ul li.article-datetime time,
-#basic .article-pager,
-#basic .navi-article-pager {
+#basic .article-pager {
     display: none;
 }
 
@@ -151,4 +150,13 @@ a[href^="http://fatrim.blog.jp/archives/75702889.html"],
 a[href^="http://fatrim.blog.jp/archives/75838836.html"],
 a[href^="http://fatrim.blog.jp/archives/77499194.html"] {
   display:none !important;
+}
+
+/* 2020年からの新デザイン対策 個別記事のページ送りや無関係のブログランキングなど */
+#basic .navi-article-pager,
+#blog_news,
+#attention_ranking, 
+#recommend_by_genre,
+#instagram_blogger {
+ display: none !important;
 }
