@@ -130,7 +130,8 @@ body .article-body-inner blockquote:before {
 }
 
 #basic ul li.article-datetime time,
-#basic .article-pager {
+#basic .article-pager,
+#basic .navi-article-pager {
     display: none;
 }
 
