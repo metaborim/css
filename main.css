@@ -160,3 +160,9 @@ a[href^="http://fatrim.blog.jp/archives/77499194.html"] {
 #instagram_blogger {
  display: none !important;
 }
+
+/* 日付 */
+#basic .article-post:before {
+  font-size: small;
+  color: firebrick;
+}
