@@ -1,16 +1,3 @@
-#ad div, 
-.blog_ad2, 
-*[id^='Adstir'],
-*[id^='adstir'],
-.footer-ranking,
-.footer-nav,
-.linelive-ranking,
-.footer-external-links,
-.footer-addline-banner,
-.footer-blog-banner {
-    display: none !important;
-}
-
 table td,
 table th {
     border: 1px solid #bbb;
@@ -159,6 +146,21 @@ ul.has-list-style {
 #instagram_blogger {
  display: none !important;
 }
+
+/* 運営側の広告は消すのよくない
+#ad div, 
+.blog_ad2, 
+*[id^='Adstir'],
+*[id^='adstir'],
+.footer-ranking,
+.footer-nav,
+.linelive-ranking,
+.footer-external-links,
+.footer-addline-banner,
+.footer-blog-banner {
+    display: none !important;
+}
+*/
 
 /* 日付 */
 #basic .article-post:before {
