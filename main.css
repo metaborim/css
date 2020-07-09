@@ -161,10 +161,3 @@ ul.has-list-style {
   font-size: small;
   color: firebrick;
 }
-
-/* 23まではギリギリ公開してもいい */
-.pager li a[href='http://fatrim.blog.jp/?p=24'],
-.pager li a[href='http://fatrim.blog.jp/?p=25'],
-.pager li a[href='http://fatrim.blog.jp/?p=26'] {
-    display: none;
-}
