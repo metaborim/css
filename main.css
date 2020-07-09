@@ -129,12 +129,8 @@ ul.has-list-style {
     list-style-type: initial;
 }
 
-*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/76597705.html"],
-*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/74496361.html"],
-*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/75046020.html"],
-*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/75702889.html"],
-*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/75838836.html"],
-*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/77499194.html"] {
+// これはstickyだから
+*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/76597705.html"] {
   display:none !important;
 }
 
@@ -147,7 +143,6 @@ ul.has-list-style {
  display: none !important;
 }
 
-/* 運営側の広告は消すのよくない
 #ad div, 
 .blog_ad2, 
 *[id^='Adstir'],
@@ -160,7 +155,6 @@ ul.has-list-style {
 .footer-blog-banner {
     display: none !important;
 }
-*/
 
 /* 日付 */
 #basic .article-post:before {
