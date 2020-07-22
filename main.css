@@ -161,6 +161,7 @@ ul.has-list-style {
   color: firebrick;
 }
 
+#basic time[datetime^='2008-'],
 #basic time[datetime^='1971-'],
 #basic time[datetime^='1972-'],
 #basic time[datetime^='1973-'] {
