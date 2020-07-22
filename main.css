@@ -116,7 +116,6 @@ body .article-body-inner blockquote:before {
     right: 8px;
 }
 
-#basic ul li.article-datetime time,
 #basic .article-pager {
     display: none;
 }
@@ -160,4 +159,10 @@ ul.has-list-style {
 #basic .article-post:before {
   font-size: small;
   color: firebrick;
+}
+
+#basic time[datetime^='1971-'],
+#basic time[datetime^='1972-'],
+#basic time[datetime^='1973-'] {
+  display: none;
 }
