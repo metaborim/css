@@ -129,7 +129,7 @@ ul.has-list-style {
 }
 
 // これはstickyだから
-*:not(.article-title)>a[href^="http://fatrim.blog.jp/archives/76597705.html"] {
+*:not(.article-title)>a[href^="https://fatrim.blog.jp/archives/76597705.html"] {
   display:none !important;
 }
 
